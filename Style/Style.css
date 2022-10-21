@@ -1,0 +1,19 @@
+.wrapper {
+margin: 5px auto;
+max-width: 640px;
+}
+.name {
+text-align: center;
+}
+.my_play {
+text-align: center;
+}
+.data {
+text-align: center;
+}
+.my_contact {
+text-align: center;
+}
+span {
+color: blue;
+}
